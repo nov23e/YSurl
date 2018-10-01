@@ -42,7 +42,15 @@
         <input id="url" type="text" placeholder="https://" />
         <input id="submit" type="button" value="Generate" onclick="APP.fn.setUrl(this)" />
       </div>
-      <div class="footer">Copyright &copy; <a href="https://github.com/Caringor/" title="Carignor" target="_blank">Caringor</a> / <a href="https://github.com/Caringor/CRZ.im/" title="Fork me on Github" target="_blank">Fork me on Github</a>.</div>
+      <div class="footer">Copyright &copy; 2016 - 
+          <!-- 自动更新版权时间代码开始 -->
+        <script>// <![CDATA[
+  document.write(new Date().getFullYear());
+// ]]></script>
+        <!-- 自动更新版权时间代码结束 -->
+        
+        <a href="https://www.80cl.com/" title="Carignor" target="_blank">QiMeng</a> ♡ <a href="https://gitlab.com/iyk/YSurl/" title="Caringor" target="_blank">YSurl</a>.</div>
+        
     </div>
   </body>
   <!-- JS -->
