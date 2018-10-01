@@ -48,9 +48,7 @@
   document.write(new Date().getFullYear());
 // ]]></script>
         <!-- 自动更新版权时间代码结束 -->
-        
         <a href="https://www.80cl.com/" title="Carignor" target="_blank">QiMeng</a> ♡ <a href="https://gitlab.com/iyk/YSurl/" title="Caringor" target="_blank">YSurl</a>.</div>
-        
     </div>
   </body>
   <!-- JS -->
