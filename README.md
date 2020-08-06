@@ -37,10 +37,6 @@ YSurl 基于 PHP、SQLite 进行开发，您只需要修改 `config.php` 的相�
 ## 鸣谢
 YSurl 项目 Fork 自 [CRZ.im](https://github.com/Caringor/CRZ.im/) 
 
-## Donate
-
-[![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/26_Yellow_PayPal_Pill_Button.png)](paypal.me/wangxiaopeng0)  
-
 ## License
 
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
