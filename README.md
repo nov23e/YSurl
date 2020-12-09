@@ -41,6 +41,5 @@ YSurl 基于 PHP、SQLite 进行开发，您只需要修改 `config.php` 的相�
 
 YSurl 项目 Fork 自 [CRZ.im](https://github.com/Caringor/CRZ.im/) 
 
-## License
-
-Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
+<a href="https://cyrilwong.mit-license.org/"><img src="https://img.shields.io/github/license/ikym/mit-license?style=flat-square.svg" alt="License"></a></br>
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
