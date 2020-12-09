@@ -2,7 +2,7 @@
 ---
 > 一个支持域名网址缩短的服务，这里是它的源代码。
 
-[Demo](http://url.lia.im/)
+[**☞ Live Preview**](http://url.lia.im/)
 
 ## 概述
 YSurl 是一个网址缩短服务的网站，这是它的源代码。
