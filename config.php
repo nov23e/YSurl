@@ -8,7 +8,7 @@
   // ID 长度
   $config['length'] = 4;
   // 网站标题
-  $config['title'] = 'Lia.IM';
+  $config['title'] = 'INS.SI';
   // 网站简介
   $config['description'] = '某千岁的网址缩短服务';
 
