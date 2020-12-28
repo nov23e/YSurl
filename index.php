@@ -48,7 +48,7 @@
   document.write(new Date().getFullYear());
 // ]]></script>
         <!-- 自动更新版权时间代码结束 -->
-        <a href="https://cyrilsoy.com" title="Carignor" target="_blank">一缕光</a> ♡ <a href="https://github.com/ikym/YSurl/" title="Caringor" target="_blank">YSurl</a>.</div>
+        <a href="https://lia.im" title="Carignor" target="_blank">Cyril's Blog</a> ♡ <a href="https://github.com/cyrilsoy/YSurl/" title="Caringor" target="_blank">YSurl</a>.</div>
     </div>
   </body>
   <!-- JS -->
